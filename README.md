@@ -1,5 +1,5 @@
 # beginnerWebDevBasics
-##learning from scratch web development html,css,js....
+  learning from scratch web development html,css,js....
 1. HTML
 2. CSS
 3. Bootstrap
